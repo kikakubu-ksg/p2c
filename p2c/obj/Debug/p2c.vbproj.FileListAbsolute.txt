@@ -1,0 +1,14 @@
+C:\DEV\p2c\p2c\bin\Debug\p2c.exe.config
+C:\DEV\p2c\p2c\bin\Debug\p2c.exe
+C:\DEV\p2c\p2c\bin\Debug\p2c.pdb
+C:\DEV\p2c\p2c\bin\Debug\p2c.xml
+C:\DEV\p2c\p2c\obj\Debug\ResolveAssemblyReference.cache
+C:\DEV\p2c\p2c\obj\Debug\p2c.dialog.resources
+C:\DEV\p2c\p2c\obj\Debug\p2c.main.resources
+C:\DEV\p2c\p2c\obj\Debug\p2c.Resources.resources
+C:\DEV\p2c\p2c\obj\Debug\p2c.view.resources
+C:\DEV\p2c\p2c\obj\Debug\ResGen.read.1.tlog
+C:\DEV\p2c\p2c\obj\Debug\ResGen.write.1.tlog
+C:\DEV\p2c\p2c\obj\Debug\p2c.exe
+C:\DEV\p2c\p2c\obj\Debug\p2c.xml
+C:\DEV\p2c\p2c\obj\Debug\p2c.pdb
